@@ -13,11 +13,11 @@ Web comercial per vendre embotits artesans catalans (fuets, pernils, llonganisse
 
 ## Membres de l'equip
 - **Product Owner**: Client (gerent familiar)
-- **Scrum Master / Desenvolupador**: [El teu nom]
-- **Dissenyador / Tester**: [El teu nom o "col·laborador"]
+- **Scrum Master / Desenvolupador**: Xavier
+- **Dissenyador / Tester**: Xavier
 
 ## Instal·lació local
 ```bash
-git clone https://github.com/el-teu-usuari/embotits-catalans-scrum.git
+git clone https://github.com/xaviergv/practica_9
 cd embotits-catalans-scrum
 # Obrir src/index.html al navegador
